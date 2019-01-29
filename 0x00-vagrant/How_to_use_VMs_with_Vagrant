@@ -1,0 +1,8 @@
+VirtualBox is basically inception for your computer. You can use VirtualBox to run entire sandboxed operating systems within your own computer.
+
+Vagrant is software that is used to manage a development environment. Through the command line, you can grab any available OS, install it, configure it, run it, work inside of it, shut it down, and more.
+
+Step 1  Install Virtual Box
+Step 2  Install Virtual Vagrant
+Step 3  Install Ubuntu Server with Vagrant
+Step 4  vagrant ssh

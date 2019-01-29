@@ -1,0 +1,4 @@
+Vagrant:
+It is a tool that allows us to create any development environment based on virtual machines.
+Vagrant It allows to create servers perfectly configured and independent of the operating system of our physical computer.
+Vagrant is an open source project, compatible with any operating system.
